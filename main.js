@@ -15,5 +15,5 @@
  this._root = this._shadowRoot.getElementById('root')
  }
  }
- customElements.define('com-sap-sac-exercise-xxx-main', Main)
+ customElements.define('com-sap-sac-exercise-lkj001-main', Main)
  })()
